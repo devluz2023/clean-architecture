@@ -1,7 +1,11 @@
-FROM openjdk:8-jre-slim
+# Use an OpenJDK 8 image as base
+FROM openjdk:8-jdk-alpine
 
+# Set the working directory inside the container
 WORKDIR /app
 
-COPY ./your-application.jar /app/your-application.jar
+# Copy the compiled JAR file into the container
+COPY ./target/rh-domain-1.0.jar /app/rh-domain-1.0.jar
 
-CMD ["java", "-jar", "your-application.jar"]
+# Command to run the application
+CMD ["java", "-jar", "rh-domain-1.0.jar"]

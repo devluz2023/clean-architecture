@@ -1,0 +1,12 @@
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\cargo\validacao\exclusao\ValidadorCargoEmUsoTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\builders\CargoBuilder.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\cargo\validacao\cadastro\ValidadorNomeUnicoTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\cargo\validacao\cadastro\ValidadorSalarioMaximoEmpresaTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\cargo\validacao\cadastro\ValidadorSalarioMinimoMenorQueMaximoTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\cargo\validacao\cadastro\ValidadorSalarioMinimoNacionalTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\builders\ReajusteBuilder.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\reajuste\validacao\ValidadorPeriodicidadeReajustesTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\reajuste\validacao\ValidadorPeriodoDeExperienciaTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\funcionario\validacao\cadastro\ValidadorSalarioCompativelComCargoTest.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\builders\FuncionarioBuilder.java
+C:\Users\binho\Documents\clean-architecture\rh-domain\src\test\java\br\com\caelum\fj91\rh\usecases\reajuste\validacao\ValidadorReajusteDentroDaFaixaSalarialTest.java

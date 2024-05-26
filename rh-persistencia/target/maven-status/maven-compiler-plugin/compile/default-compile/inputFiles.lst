@@ -1,0 +1,10 @@
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\entities\FuncionarioEntity.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\JpaConfiguration.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\repositories\JpaCargoRepository.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\repositories\JpaFuncionarioRepository.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\converters\ReajusteEntityConverter.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\entities\ReajusteEntity.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\entities\CargoEntity.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\repositories\JpaReajusteRepository.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\converters\FuncionarioEntityConverter.java
+C:\Users\binho\Documents\clean-architecture\rh-persistencia\src\main\java\br\com\caelum\fj91\rh\persistencia\converters\CargoEntityConverter.java
